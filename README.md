@@ -1,7 +1,7 @@
 
 ![githubprofile](https://github.com/LindsL/LindsL/assets/43096270/012330f2-a521-44bb-8813-f4e0c6cbbb04)
 
-## À propos
+![apropos](https://github.com/LindsL/LindsL/assets/43096270/02eadc9f-64ae-4579-852d-f3ca1b308793)
 
 ### 👩‍💻 Développeuse front-end et intégratrice web 
 Je jongle avec la conception de maquettes et de designs, en m'assurant qu'ils soient parfaitement responsive.
@@ -16,10 +16,11 @@ Forte d'une expérience de 2ans dans le domaine, je suis toujours en quête d'ap
 Je suis ici pour partager mes projets, collaborer avec d'autres passionnés et continuer à grandir en tant que professionnelle du web. 
 
 ### ⚡ Fun fact
-Je suis une véritable rat de bibliothèque et je peux passer des heures plongée dans un bon livre. Mon record personnel ? Finir un roman de 400 pages en une seule nuit ! 📚🌙🤫<
+Je suis une véritable rat de bibliothèque et je peux passer des heures plongée dans un bon livre. Mon record personnel ? Finir un roman de 400 pages en une seule nuit ! 📚🌙🤫
 
 
-## Mes compétences
+![comptence](https://github.com/LindsL/LindsL/assets/43096270/ee626a3a-f53d-4e4d-bf3e-62327216d3de)
+
 ### Langages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 
