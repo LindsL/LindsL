@@ -6,7 +6,7 @@
 ### 👩‍💻 Développeuse front-end et intégratrice web 
 Je jongle avec la conception de maquettes et de designs, en m'assurant qu'ils soient parfaitement responsive.
 
-### 💼 En reconversion vers le monde de la tech
+### 💼 En reconversion dans le monde de la tech
 Je suis passionnée par l'intégration d'applications et de sites web, mon objectif est de créer des expériences utilisateurs fluides et engageantes et des designs captivants !
 
 ### 🎓 Titulaire du titre de Développeuse/Intégratrice web
